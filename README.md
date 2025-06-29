@@ -8,7 +8,7 @@ and the Engineering Club (North Campus) at Notre Dame University, Lebanon.**
 During the 10-Week Challenge, participants will learn essential skills in software development and engineering. 
 This repository aims to act as a supplementary resource for the training program; Our teaching and training will be 
 conducted mostly through webinars and workshops led by experienced mentors and seasoned engineers in the field.
->To access the learning material, please refer to the individual week folders.
+```To access the learning material, please refer to the individual week folders.```
 
 ## Software Track: Topics Covered
 - **Module 1:** Version Control (Git & GitHub)
