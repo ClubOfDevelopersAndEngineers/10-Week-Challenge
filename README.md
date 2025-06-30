@@ -28,7 +28,7 @@ conducted mostly through webinars and workshops led by experienced mentors and s
 To be able to sit for the trainings, you must be:
 - A current student at Notre Dame University (NDU) in Lebanon
 - Studying in the Faculty of Engineering or the Faculty of Natural and Applied Sciences
-- A first or second year student in your current major
+- Preferably, a first or second year student in your current major (seniors and graduates are also welcome)
 - Able to commit to attending the weekly sessions and completing the assignments
 
 ## Participation:
