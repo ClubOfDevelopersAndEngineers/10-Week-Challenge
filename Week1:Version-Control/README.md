@@ -17,7 +17,7 @@ By the end of this week, participants will:
 
 ✅ **Resources**:
 * [Git Handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
-* [Git vs GitHub explained](https://www.youtube.com/watch?v=RGOj5yH7evk) (freeCodeCamp, 7 mins)
+* [Git vs GitHub explained](https://www.youtube.com/watch?v=RGOj5yH7evk) (freeCodeCamp)
 
 ---
 
@@ -72,7 +72,7 @@ Build a simple HTML project and manage it with Git.
 
 ✅ Walkthrough:
 * [Build a GitHub Portfolio Website](https://pages.github.com/)
-* [GitHub Pages Step-by-Step Tutorial](https://www.youtube.com/watch?v=SKXkC4SqtRk) (8 mins)
+* [GitHub Pages Step-by-Step Tutorial](https://www.youtube.com/watch?v=SKXkC4SqtRk) 
 ---
 **Day 7: Wrap-up and Showcase**
 
@@ -80,7 +80,5 @@ Build a simple HTML project and manage it with Git.
 * Share what you learned.
 * Bonus: Add your GitHub repo link to your LinkedIn!
 
-✅ **Bonus Resource**:
 
-* [GitHub Learning Lab – Intro to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 
