@@ -3,7 +3,7 @@
 **This training program was developed by 
 the Club of Developers and Engineers (CODE - Shouf Campus), 
 in collaboration with The Computer Club (TCC - Main Campus) 
-and the Engineering Club (North Campus) at Notre Dame University, Lebanon.**
+and the Engineering Club (Shouf Campus) at Notre Dame University, Lebanon.**
 
 During the 10-Week Challenge, participants will learn essential skills in software development and engineering. 
 This repository aims to act as a supplementary resource for the training program; Our teaching and training will be 
