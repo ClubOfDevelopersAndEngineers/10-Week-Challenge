@@ -25,7 +25,7 @@ conducted mostly through webinars and workshops led by experienced mentors and s
 </div>
 
 ## Eligibility:
-To be able to sit for the trainings, you must be:
+To be able to sit for the training, you must be:
 - A current student at Notre Dame University (NDU) in Lebanon
 - Studying in the Faculty of Engineering or the Faculty of Natural and Applied Sciences
 - Preferably, a first or second year student in your current major (seniors and graduates are also welcome)
@@ -40,4 +40,4 @@ for updates, discussions, and additional mentorship.
 
 Find us here!
 - [C.O.D.E. Links](https://linktr.ee/CODE.NDU)
-- [T.C.C Links](https://linktr.ee/nduthecomputerclub)
+- [T.C.C. Links](https://linktr.ee/nduthecomputerclub)
