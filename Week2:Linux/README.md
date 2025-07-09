@@ -110,8 +110,8 @@ If you’d prefer to run Linux directly on your hardware—either as your main O
 * **Full native install**: Replace or wipe your existing system and install Linux as your only OS.
 * **Dual‑boot setup**: Keep Windows and add Linux so you choose at startup.
 
-  • Ubuntu Community Guide to Dual‑Boot Windows & Ubuntu → 🌐 [https://help.ubuntu.com/community/WindowsDualBoot](https://help.ubuntu.com/community/WindowsDualBoot)
-  • Gcore’s concise dual‑boot walkthrough (partitioning, installer steps, GRUB) → 🌐 [https://gcore.com/learning/dual-boot-ubuntu-windows-setup](https://gcore.com/learning/dual-boot-ubuntu-windows-setup)
+  - Ubuntu Community Guide to Dual‑Boot Windows & Ubuntu → 🌐 [https://help.ubuntu.com/community/WindowsDualBoot](https://help.ubuntu.com/community/WindowsDualBoot)
+  - Gcore’s concise dual‑boot walkthrough (partitioning, installer steps, GRUB) → 🌐 [https://gcore.com/learning/dual-boot-ubuntu-windows-setup](https://gcore.com/learning/dual-boot-ubuntu-windows-setup)
 
 Choose the path that best fits your comfort level. If you’re new, the VMware approach is safest—your host remains untouched, and you can take snapshots before making any changes. Good luck, and happy scripting!
 
