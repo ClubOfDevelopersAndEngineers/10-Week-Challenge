@@ -143,6 +143,7 @@ Choose the path that best fits your comfort level. If you’re new, the VMware a
 * *The Linux Command Line* (free book, PDF)  
   - 🔗 https://linuxcommand.org/tlcl.php
 
+---
 
 ### 🎥 Video Courses
 * *SSH for Beginners (freeCodeCamp)*  
@@ -150,6 +151,7 @@ Choose the path that best fits your comfort level. If you’re new, the VMware a
 * *SSH Crash Course (NetworkChuck)*  
   - 🔗 https://www.youtube.com/watch?v=ZtqBQ68cfJc
 
+---
 
 ### 🧪 Distro Discovery
 * *DistroSea* (compare and explore hundreds of Linux distros)  
