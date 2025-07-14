@@ -1,7 +1,7 @@
 # Week 2: Linux
 
 ## Goal, Introduction, Important information
-This week, our goal is to get you comfortable running Linux in a virtual environment so you can explore and experiment without affecting your main system. We’ll use VMware Workstation or VMware Player—a Type‑2 hypervisor that lets you run one or more “guest” operating systems on top of your existing “host” OS. VMware Workstation provides sandboxed environments for testing, development, and learning, with features like snapshotting and easy networking configurations [simplilearn.com](simplilearn.com).
+This week, our goal is to get you comfortable running Linux in a virtual environment so you can explore and experiment without affecting your main system. We’ll use VMware Workstation or VMware Player—a Type‑2 hypervisor that lets you run one or more “guest” operating systems on top of your existing “host” OS. VMware Workstation provides sandboxed environments for testing, development, and learning, with features like snapshotting and easy networking configurations.
 
 **Over the next five days, you will:**
 * Learn what VMware is and how it’s used
@@ -86,12 +86,11 @@ Here are a list of some of the most common, basic Linux commands you can learn t
 
 ### Introduction to VMware:
 
-VMware Workstation (Windows/Linux) and VMware Player (free on Windows) are tools that let you create and manage virtual machines (VMs). You can allocate CPU, memory, storage, and networking to each VM independently, take snapshots to freeze and restore states, and share folders between host and guest machines [simplilearn.com](simplilearn.com).
+VMware Workstation (Windows/Linux) and VMware Player (free on Windows) are tools that let you create and manage virtual machines (VMs). You can allocate CPU, memory, storage, and networking to each VM independently, take snapshots to freeze and restore states, and share folders between host and guest machines.
 
 ---
 **Option 1: Ubuntu in VMware**
 * **YouTube Walkthrough:** “How to Install Ubuntu 24.04LTS on VMware Workstation Player on Windows 11” — a clear, step‑by‑step video showing how to download Ubuntu ISO, create a new VM, configure hardware settings, and complete the desktop install. ▶️ [https://youtu.be/SgfrHKg81Qc](https://youtu.be/SgfrHKg81Qc)
-
 
 * **Written Guide:** Official Ubuntu Desktop install tutorial: detailed screenshots and instructions covering download, VM creation, and post‑install tips (VM Tools setup, shared folders). 🌐 [https://ubuntu.com/tutorials/install-ubuntu-desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
 ---
@@ -99,7 +98,7 @@ VMware Workstation (Windows/Linux) and VMware Player (free on Windows) are tools
 
 * **YouTube Walkthrough:** “HOW TO: Install Linux Fedora 41 desktop on VMware” — up‑to‑date video (April 2025) that shows ISO download, VM setup, disk partition selection, and first‑boot configuration. ▶️ [https://youtu.be/7xVm3BhvBFw](https://youtu.be/7xVm3BhvBFw)
 
-* **Written Guide:** LinuxFellas’ step‑by‑step Fedora install on VMware Workstation; Covers host prerequisites, VMware download/configuration, ISO installation, and VMware Tools integration. 🌐 [https://linuxfellas.com/install-fedora/](https://linuxfellas.com/install-fedora/) ([linuxfellas.com][5])
+* **Written Guide:** LinuxFellas’ step‑by‑step Fedora install on VMware Workstation; Covers host prerequisites, VMware download/configuration, ISO installation, and VMware Tools integration. 🌐 [https://linuxfellas.com/install-fedora/](https://linuxfellas.com/install-fedora/)
 
 ---
 
