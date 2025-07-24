@@ -63,7 +63,7 @@
 
 3. **CI Workflow:** Add a file at `.github/workflows/ci.yml` (or equivalent) that runs tests/lint.
 
-4. **CD Workflow: ** Add a file at `.github/workflows/cd.yml` (or in the same workflow) that deploys on success.
+4. **CD Workflow:** Add a file at `.github/workflows/cd.yml` (or in the same workflow) that deploys on success.
 
 5. **Documentation:** In your `README.md`, include:
 - A brief description of your **CI steps**
